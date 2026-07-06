@@ -21,6 +21,8 @@ https://your-domain.example/images/original/product-image-01.jpg
 
 ## Current image URLs
 
+Recommended Amazon submission order:
+
 ```text
 https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-main.jpg
 https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-material.jpg
@@ -29,8 +31,13 @@ https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-baskin
 https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-feeding-tray.jpg
 https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-anti-slip-ramp.jpg
 https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-size-guide-25gal.jpg
-https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-size-guide-20gal.jpg
 https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-tank-compatibility.jpg
+```
+
+Archive image, not recommended for submission with the 25 Gal+ version:
+
+```text
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-size-guide-20gal.jpg
 ```
 
 ## Amazon review checklist
@@ -41,4 +48,4 @@ https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-baskin
 - The filename and folder path stay unchanged after submission.
 - The image is publicly accessible in a private/incognito browser window.
 - Use the text-free product image as the main image candidate. Feature text is better suited to secondary images.
-
+- Do not submit both 20 Gal+ and 25 Gal+ size guide images together, because they can look inconsistent.

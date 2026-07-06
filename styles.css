@@ -85,6 +85,21 @@ h1 {
   line-height: 1.65;
 }
 
+.submission {
+  margin-top: 16px;
+}
+
+.submission ol {
+  display: grid;
+  gap: 10px;
+  margin: 18px 0 0;
+  padding-left: 24px;
+}
+
+.submission li {
+  padding-left: 4px;
+}
+
 .example {
   display: grid;
   gap: 8px;
@@ -174,6 +189,11 @@ code {
 .image-card code {
   font-size: 12px;
   line-height: 1.45;
+}
+
+.not-recommended {
+  border-color: #d8c7a5;
+  background: #fffaf0;
 }
 
 @media (max-width: 720px) {

@@ -1,0 +1,45 @@
+halomyyth Amazon review submission package
+
+Public page:
+https://leeyy774634198-commits.github.io/halomyyth/
+
+Recommended image URL order:
+
+1. Main image candidate
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-main.jpg
+
+2. Material feature
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-material.jpg
+
+3. Stability feature
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-stability.jpg
+
+4. Tank fit detail
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-tank-fit.jpg
+
+5. Feeding tray feature
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-feeding-tray.jpg
+
+6. Anti-slip ramp feature
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-anti-slip-ramp.jpg
+
+7. Size guide 25 Gal+
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-size-guide-25gal.jpg
+
+8. Tank compatibility
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-tank-compatibility.jpg
+
+Archive only, not recommended for submission with the 25 Gal+ version:
+https://leeyy774634198-commits.github.io/halomyyth/images/original/turtle-basking-platform-size-guide-20gal.jpg
+
+Review checks completed:
+- Public static GitHub Pages hosting.
+- Direct JPG URLs.
+- No registration, login, password, CAPTCHA, payment, app download, or redirect verification.
+- English filenames with no spaces.
+- All listed product images are 1600 x 1600 px.
+
+Important note:
+The current main image candidate has no text overlay, but it includes lifestyle props and a turtle.
+For the strictest Amazon main-image review, a pure white-background image showing only the product
+would be stronger. The current feature images with text are better suited as secondary images.
